@@ -26,11 +26,11 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun anotherFunction() = with(binding){
-        NewID.setOnClickListener {
-
-        }
-    }
+//    fun anotherFunction() = with(binding){
+//        NewID.setOnClickListener {
+//
+//        }
+//    }
 
 
     private fun function() = with(binding){
